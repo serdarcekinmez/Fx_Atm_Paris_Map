@@ -1,0 +1,1775 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-29T20:48:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/259609484",
+        "amenity": "bureau_de_change",
+        "atm": "yes",
+        "check_date": "2025-06-12",
+        "check_date:opening_hours": "2024-12-30",
+        "indoor": "room",
+        "name": "W€ change",
+        "opening_hours:signed": "no",
+        "room": "office",
+        "source": "survey 2014",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3532878,
+          48.8613758
+        ]
+      },
+      "id": "way/259609484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372826820",
+        "amenity": "bureau_de_change",
+        "level": "0",
+        "room": "shop",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3040923,
+          48.871476
+        ]
+      },
+      "id": "way/372826820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373232605",
+        "amenity": "bureau_de_change",
+        "level": "0",
+        "name": "Change du Claridge",
+        "room": "money",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3051329,
+          48.8715976
+        ]
+      },
+      "id": "way/373232605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393907943",
+        "amenity": "bureau_de_change",
+        "level": "-1",
+        "name": "Bureau de Change",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2840783,
+          48.8796815
+        ]
+      },
+      "id": "way/393907943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401355355",
+        "amenity": "bureau_de_change",
+        "indoor": "room",
+        "level": "0",
+        "name": "Prosegur Change",
+        "opening_hours": "Mo-Sa 06:55-22:00; Su 08:10-20:30",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3553055,
+          48.8800875
+        ]
+      },
+      "id": "way/401355355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402515941",
+        "amenity": "bureau_de_change",
+        "indoor": "room",
+        "level": "0",
+        "name": "Global Exchange",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3597953,
+          48.8765012
+        ]
+      },
+      "id": "way/402515941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403889838",
+        "amenity": "bureau_de_change",
+        "indoor": "room",
+        "level": "1",
+        "name": "Currency Exchange",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3544376,
+          48.8812668
+        ]
+      },
+      "id": "way/403889838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529511440",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-04-13",
+        "name": "Change Master",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3429508,
+          48.8503975
+        ]
+      },
+      "id": "node/529511440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/863902616",
+        "amenity": "bureau_de_change",
+        "indoor": "room",
+        "level": "0",
+        "name": "Novacambios",
+        "room": "shop",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3080284,
+          48.8705214
+        ]
+      },
+      "id": "way/863902616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059385964",
+        "amenity": "bureau_de_change",
+        "indoor": "room",
+        "level": "2",
+        "opening_hours": "09:30-19:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3195325,
+          48.8414832
+        ]
+      },
+      "id": "way/1059385964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1519776201",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-08-26",
+        "name": "Feydeau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3404224,
+          48.8699488
+        ]
+      },
+      "id": "node/1519776201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822082658",
+        "addr:housenumber": "3",
+        "addr:street": "Boulevard de Bonne Nouvelle",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-12-22",
+        "name": "Business change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3521777,
+          48.8696081
+        ]
+      },
+      "id": "node/1822082658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986745624",
+        "amenity": "bureau_de_change",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2989591,
+          48.8728847
+        ]
+      },
+      "id": "node/1986745624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986745625",
+        "amenity": "bureau_de_change",
+        "source": "knowledge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2979398,
+          48.8732083
+        ]
+      },
+      "id": "node/1986745625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028083399",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "233",
+        "contact:postcode": "75017",
+        "contact:street": "Boulevard Pereire",
+        "name": "APS Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.287706,
+          48.8795335
+        ]
+      },
+      "id": "node/2028083399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2217482598",
+        "amenity": "bureau_de_change",
+        "name": "Puccini Bureau de Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3639524,
+          48.8214836
+        ]
+      },
+      "id": "node/2217482598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2553153339",
+        "addr:street": "Boulevard Saint-Michel",
+        "amenity": "bureau_de_change",
+        "brand": "Change Group",
+        "brand:wikidata": "Q5071758",
+        "check_date": "2023-03-31",
+        "name": "Change Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3435525,
+          48.8516659
+        ]
+      },
+      "id": "node/2553153339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2553153340",
+        "addr:street": "Boulevard Saint-Michel",
+        "amenity": "bureau_de_change",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964",
+        "brand:wikipedia": "en:Travelex",
+        "check_date": "2025-04-30",
+        "name": "Travelex",
+        "panoramax": "5b65db88-f407-4be7-b1d7-ea4d0ffbe84b",
+        "phone": "+33988410807",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3436908,
+          48.8530553
+        ]
+      },
+      "id": "node/2553153340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2553153363",
+        "amenity": "bureau_de_change",
+        "level": "0",
+        "name": "Interchange",
+        "opening_hours": "Mo-Sa 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3437395,
+          48.8520497
+        ]
+      },
+      "id": "node/2553153363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634121039",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-12-01",
+        "name": "Change",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3461069,
+          48.8612868
+        ]
+      },
+      "id": "node/2634121039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723256519",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-03-20",
+        "check_date:opening_hours": "2026-03-20",
+        "contact:email": "contact@abacor.fr",
+        "contact:phone": "+33144613495",
+        "contact:website": "https://www.abacor.fr",
+        "name": "Abacor",
+        "opening_hours": "Mo-Fr 10:30-18:45; Sa 11:30-18:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3581343,
+          48.8557864
+        ]
+      },
+      "id": "node/2723256519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822396901",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-11-03",
+        "name": "Change",
+        "wheelchair": "limited",
+        "wheelchair:description:fr": "Une marche large."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333023,
+          48.8738845
+        ]
+      },
+      "id": "node/2822396901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3457465893",
+        "amenity": "bureau_de_change",
+        "contact:phone": "+33 1 43 54 96 20",
+        "delivery": "yes",
+        "name": "Godot & Fils",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "payment:cheque": "yes",
+        "payment:debit_cards": "yes",
+        "ref:FR:SIRET": "39486248600013",
+        "shop": "gold_buyer",
+        "website": "https://pantheon.godotetfils.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3431145,
+          48.8470189
+        ]
+      },
+      "id": "node/3457465893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3643908193",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-03-08",
+        "contact:city": "Paris",
+        "contact:housenumber": "191",
+        "contact:postcode": "75010",
+        "contact:street": "Rue du Faubourg Saint-Denis",
+        "level": "0",
+        "name": "Babi Bazar Plus",
+        "ref:FR:SIRET": "75307734600017",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3582022,
+          48.8818218
+        ]
+      },
+      "id": "node/3643908193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768199431",
+        "amenity": "bureau_de_change",
+        "delivery": "yes",
+        "name": "Godot & Fils",
+        "opening_hours": "Mo-Fr 09:30-17:45",
+        "payment:cheque": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "ref:FR:SIRET": "52358390400041",
+        "shop": "gold_buyer",
+        "website": "https://paris15.godotetfils.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3019875,
+          48.8464568
+        ]
+      },
+      "id": "node/3768199431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916696368",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-08-21",
+        "name": "Change",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3437563,
+          48.8600965
+        ]
+      },
+      "id": "node/3916696368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916696566",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-08-21",
+        "name": "Best Change",
+        "opening_hours": "09:30-21:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343785,
+          48.8609735
+        ]
+      },
+      "id": "node/3916696566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3980173925",
+        "amenity": "bureau_de_change",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3302614,
+          48.8644463
+        ]
+      },
+      "id": "node/3980173925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3980173938",
+        "amenity": "bureau_de_change",
+        "brand": "Travelex",
+        "brand:wikidata": "Q2337964",
+        "brand:wikipedia": "en:Travelex",
+        "name": "Travelex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3318086,
+          48.8639855
+        ]
+      },
+      "id": "node/3980173938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3980173939",
+        "amenity": "bureau_de_change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3328404,
+          48.8636479
+        ]
+      },
+      "id": "node/3980173939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3980224348",
+        "amenity": "bureau_de_change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3394982,
+          48.8614948
+        ]
+      },
+      "id": "node/3980224348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111880552",
+        "addr:city": "Paris",
+        "addr:postcode": "75001",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-12-01",
+        "name": "Change",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3480915,
+          48.8603309
+        ]
+      },
+      "id": "node/4111880552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4392137109",
+        "addr:city": "Paris",
+        "addr:housenumber": "38 bis",
+        "addr:postcode": "75002",
+        "addr:street": "Rue Vivienne",
+        "amenity": "bureau_de_change",
+        "email": "contact@maison-joubert.fr",
+        "name": "Maison Joubert",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "operator": "HCG",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+33 1 42 36 20 39",
+        "website": "https://www.joubert-change.fr/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3413373,
+          48.8709965
+        ]
+      },
+      "id": "node/4392137109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829548206",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-10-18",
+        "contact:city": "Paris",
+        "contact:housenumber": "121",
+        "contact:postcode": "75010",
+        "contact:street": "Boulevard de Magenta",
+        "name": "Change + Or",
+        "ref:FR:SIRET": "44950391100041",
+        "source": "survey 2017",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3524617,
+          48.88
+        ]
+      },
+      "id": "node/4829548206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829548211",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "119",
+        "contact:postcode": "75010",
+        "contact:street": "Boulevard de Magenta",
+        "name": "Royal Gold Forex",
+        "ref:FR:SIRET": "81144625100050",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3525772,
+          48.8798623
+        ]
+      },
+      "id": "node/4829548211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4831650297",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-07-23",
+        "name": "Change + Or",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354776,
+          48.8785867
+        ]
+      },
+      "id": "node/4831650297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4831650319",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-09-28",
+        "contact:city": "Paris",
+        "contact:housenumber": "38",
+        "contact:postcode": "75010",
+        "contact:street": "Rue de Saint-Quentin",
+        "name": "Change",
+        "ref:FR:SIRET": "84213696200011",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560343,
+          48.8794496
+        ]
+      },
+      "id": "node/4831650319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841243230",
+        "amenity": "bureau_de_change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3566471,
+          48.8788048
+        ]
+      },
+      "id": "node/4841243230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4843645321",
+        "amenity": "bureau_de_change",
+        "name": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3425559,
+          48.8827869
+        ]
+      },
+      "id": "node/4843645321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4845269423",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-03-08",
+        "name": "Change",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3533019,
+          48.880441
+        ]
+      },
+      "id": "node/4845269423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4874197123",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-02-21",
+        "noname": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3312118,
+          48.8743085
+        ]
+      },
+      "id": "node/4874197123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904272821",
+        "amenity": "bureau_de_change",
+        "atm": "yes",
+        "check_date": "2025-04-30",
+        "check_date:opening_hours": "2024-04-05",
+        "name": "Change",
+        "opening_hours": "10:00-19:00",
+        "phone": "+33 1 43 54 76 55",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3436611,
+          48.8537881
+        ]
+      },
+      "id": "node/4904272821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920596823",
+        "amenity": "bureau_de_change",
+        "name": "Change (ChangeGroup)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3383589,
+          48.852736
+        ]
+      },
+      "id": "node/4920596823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5001825210",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-04-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3323805,
+          48.8527366
+        ]
+      },
+      "id": "node/5001825210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5172479406",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-03-17",
+        "contact:city": "Paris",
+        "contact:housenumber": "188",
+        "contact:postcode": "75010",
+        "contact:street": "Rue du Faubourg Saint-Denis",
+        "level": "0",
+        "name": "QuickTransfert",
+        "source": "survey 05/2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3581028,
+          48.880954
+        ]
+      },
+      "id": "node/5172479406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5291384334",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-06-23",
+        "contact:city": "Paris",
+        "contact:housenumber": "70",
+        "contact:postcode": "75010",
+        "contact:street": "Boulevard de Strasbourg",
+        "contact:website": "https://www.cen-change.com/",
+        "name": "CEN-Change",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "ref:FR:SIRET": "50283511900020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579272,
+          48.8751715
+        ]
+      },
+      "id": "node/5291384334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555915421",
+        "amenity": "bureau_de_change",
+        "contact:email": "changeelysees@ume-france.com",
+        "contact:housenumber": "66",
+        "contact:phone": "+33 1 42 25 19 01",
+        "contact:postcode": "75008",
+        "contact:street": "Avenue des Champs-Élysées",
+        "contact:website": "http://www.ume-world.com",
+        "name": "Bureau de change",
+        "name:en": "Currency exchange",
+        "name:fr": "Universal Money Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3057177,
+          48.871075
+        ]
+      },
+      "id": "node/5555915421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599022954",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-05-21",
+        "name": "Ria Transfert d'argent",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3436271,
+          48.8684353
+        ]
+      },
+      "id": "node/5599022954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5746089086",
+        "amenity": "bureau_de_change",
+        "name": "Change or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3662967,
+          48.8536912
+        ]
+      },
+      "id": "node/5746089086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941386181",
+        "addr:city": "Paris",
+        "addr:housenumber": "52",
+        "addr:postcode": "75018",
+        "addr:street": "Boulevard de Clichy",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-04-19",
+        "name": "Euro Entreprise",
+        "ref:FR:SIRET": "42062049400013",
+        "survey:date": "2018-09-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3352511,
+          48.8832305
+        ]
+      },
+      "id": "node/5941386181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941386589",
+        "addr:city": "Paris",
+        "addr:housenumber": "70",
+        "addr:postcode": "75018",
+        "addr:street": "Boulevard de Clichy",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-11-27",
+        "name": "Nars",
+        "ref:FR:SIRET": "49327244700019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3338677,
+          48.8836536
+        ]
+      },
+      "id": "node/5941386589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5943868589",
+        "amenity": "bureau_de_change",
+        "check_date:opening_hours": "2025-05-13",
+        "name": "Change Master",
+        "opening_hours:signed": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3495203,
+          48.8537889
+        ]
+      },
+      "id": "node/5943868589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6012962685",
+        "addr:housenumber": "33",
+        "addr:street": "Rue Vivienne",
+        "amenity": "bureau_de_change",
+        "email": "merson@free.fr",
+        "name": "Merson",
+        "opening_hours": "Sa 10:00-18:00; Mo-Fr 09:00-18:00",
+        "phone": "+33 142338167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3406239,
+          48.8700802
+        ]
+      },
+      "id": "node/6012962685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6080371785",
+        "addr:city": "Paris",
+        "addr:housenumber": "92",
+        "addr:postcode": "75019",
+        "addr:street": "Avenue de Flandre",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-01-27",
+        "name": "Banofe change",
+        "phone": "+33 1 40 37 51 64",
+        "ref:FR:SIRET": "91418416300014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3767503,
+          48.8902885
+        ]
+      },
+      "id": "node/6080371785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6465849825",
+        "amenity": "bureau_de_change",
+        "check_date": "2023-11-22",
+        "noname": "yes",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3240339,
+          48.8429032
+        ]
+      },
+      "id": "node/6465849825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542738826",
+        "amenity": "bureau_de_change",
+        "atm": "yes",
+        "name": "Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3462538,
+          48.8531155
+        ]
+      },
+      "id": "node/6542738826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6833056132",
+        "amenity": "bureau_de_change",
+        "name": "Change Richelieu",
+        "opening_hours": "Mo-Fr 09:30-18:00",
+        "ref:FR:SIRET": "52358390400017",
+        "website": "https://www.changerichelieu.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3389426,
+          48.8694485
+        ]
+      },
+      "id": "node/6833056132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6944898934",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-05-11",
+        "name": "Nova Câmbios",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3291237,
+          48.8724589
+        ]
+      },
+      "id": "node/6944898934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7374824849",
+        "amenity": "bureau_de_change",
+        "name": "Multi Change",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3250042,
+          48.8448064
+        ]
+      },
+      "id": "node/7374824849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8615582797",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-10-18",
+        "contact:city": "Paris",
+        "contact:housenumber": "77",
+        "contact:phone": "+33 1 42 46 56 93",
+        "contact:postcode": "75010",
+        "contact:street": "Boulevard de Magenta",
+        "contact:website": "https://www.changemagenta.fr/",
+        "name": "Change Magenta",
+        "opening_hours": "Tu-Sa 10:00-18:00; Mo,Su,PH off",
+        "ref:FR:SIRET": "43994657500024",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564554,
+          48.8755391
+        ]
+      },
+      "id": "node/8615582797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9481321113",
+        "amenity": "bureau_de_change",
+        "name": "Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3249921,
+          48.8876639
+        ]
+      },
+      "id": "node/9481321113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560732249",
+        "addr:floor": "0",
+        "addr:housenumber": "18",
+        "addr:street": "Rue Pierre Lescot",
+        "amenity": "bureau_de_change",
+        "check_date": "2026-03-17",
+        "level": "0",
+        "name": "Interchange",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3486703,
+          48.862459
+        ]
+      },
+      "id": "node/9560732249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9609843685",
+        "amenity": "bureau_de_change",
+        "level": "0",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3239032,
+          48.8402418
+        ]
+      },
+      "id": "node/9609843685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805790073",
+        "addr:city": "Paris",
+        "addr:postcode": "75018",
+        "addr:street": "Rue Norvins",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-09-14",
+        "name": "Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3401208,
+          48.8869985
+        ]
+      },
+      "id": "node/9805790073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9916014830",
+        "amenity": "bureau_de_change",
+        "name": "Espace Gold Change",
+        "website": "https://espace-gold-change.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3314078,
+          48.8516659
+        ]
+      },
+      "id": "node/9916014830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10049466572",
+        "addr:housenumber": "5",
+        "addr:street": "Boulevard de Bonne Nouvelle",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-12-22",
+        "name": "Change du Sentier",
+        "opening_hours": "Mo-Fr 09:00-19:15; Sa 10:00-19:15; Su off",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3520204,
+          48.8696369
+        ]
+      },
+      "id": "node/10049466572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10102883779",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-02-22",
+        "level": "0",
+        "name": "Transfert d'Argent Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3416747,
+          48.8821617
+        ]
+      },
+      "id": "node/10102883779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10178083081",
+        "amenity": "bureau_de_change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3345558,
+          48.8648088
+        ]
+      },
+      "id": "node/10178083081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10222535891",
+        "amenity": "bureau_de_change",
+        "contact:phone": "+33 1 89 16 41 41",
+        "delivery": "yes",
+        "name": "Godot & Fils",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "payment:american_express": "no",
+        "payment:cheque": "yes",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "ref:FR:SIRET": "48441474300019",
+        "shop": "gold_buyer",
+        "website": "https://godotetfils.com/raspail/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3264065,
+          48.8521479
+        ]
+      },
+      "id": "node/10222535891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572778949",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "21",
+        "contact:postcode": "75010",
+        "contact:street": "Rue de Dunkerque",
+        "level": "0",
+        "name": "Extra Change",
+        "ref:FR:SIRET": "94881987500014",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3555809,
+          48.8796271
+        ]
+      },
+      "id": "node/10572778949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10805325052",
+        "amenity": "bureau_de_change",
+        "name": "Change de l'Or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3316706,
+          48.8750286
+        ]
+      },
+      "id": "node/10805325052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873840639",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-08-08",
+        "level": "0",
+        "name": "Comptoir Change Opera",
+        "opening_hours": "Mo-Fr 09:15-18:15; Sa 10:00-17:30",
+        "phone": "+33 1 43 12 87 35",
+        "source": "survey",
+        "website": "https://www.ccopera.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3325688,
+          48.87108
+        ]
+      },
+      "id": "node/10873840639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10922218346",
+        "amenity": "bureau_de_change",
+        "name": "Saint Or - Achat d'Or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3157862,
+          48.8810638
+        ]
+      },
+      "id": "node/10922218346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10922726006",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-10-10",
+        "name": "Argenor",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268156,
+          48.8466593
+        ]
+      },
+      "id": "node/10922726006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10922726020",
+        "amenity": "bureau_de_change",
+        "name": "Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324918,
+          48.8447157
+        ]
+      },
+      "id": "node/10922726020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10922894861",
+        "amenity": "bureau_de_change",
+        "name": "LEA Change",
+        "ref:FR:SIREN": "852355056",
+        "ref:FR:SIRET": "85235505600015",
+        "website": "https://www.leachange.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3288835,
+          48.8493896
+        ]
+      },
+      "id": "node/10922894861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11162937203",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "66",
+        "contact:postcode": "75010",
+        "contact:street": "Rue Louis Blanc",
+        "name": "Asian Exchange",
+        "ref:FR:SIRET": "81919610600028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3603604,
+          48.8838597
+        ]
+      },
+      "id": "node/11162937203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11230576960",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "158",
+        "contact:postcode": "75010",
+        "contact:street": "Rue du Faubourg Saint-Denis",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570534,
+          48.8788861
+        ]
+      },
+      "id": "node/11230576960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368532541",
+        "addr:city": "Paris",
+        "addr:housenumber": "44",
+        "addr:postcode": "75018",
+        "addr:street": "Boulevard de Clichy",
+        "amenity": "bureau_de_change",
+        "check_date": "2024-01-20",
+        "name": "Change Paris",
+        "ref:FR:SIRET": "83883804300019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3357893,
+          48.8830794
+        ]
+      },
+      "id": "node/11368532541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11554212524",
+        "amenity": "bureau_de_change",
+        "brand": "Godot & Fils",
+        "delivery": "yes",
+        "name": "Godot & Fils",
+        "opening_hours": "Mo-Fr 09:30-18:30",
+        "payment:cheque": "yes",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "ref:FR:SIRET": "79220287100010",
+        "shop": "gold_buyer",
+        "website": "https://www.changedelabourse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3409859,
+          48.8703098
+        ]
+      },
+      "id": "node/11554212524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11554231496",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris 2eme Arrondissement",
+        "contact:housenumber": "2",
+        "contact:phone": "+33 1 47 03 41 41",
+        "contact:postcode": "75002",
+        "contact:street": "Rue De La Bourse",
+        "name": "Comptoir de la bourse",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "ref:FR:SIRET": "45195975300018",
+        "website": "https://www.comptoir-de-la-bourse.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340044,
+          48.8695426
+        ]
+      },
+      "id": "node/11554231496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11867341684",
+        "amenity": "bureau_de_change",
+        "name": "Change money"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346115,
+          48.8531534
+        ]
+      },
+      "id": "node/11867341684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11937604620",
+        "amenity": "bureau_de_change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3400985,
+          48.8557711
+        ]
+      },
+      "id": "node/11937604620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12048858966",
+        "addr:floor": "0",
+        "addr:housenumber": "8",
+        "addr:street": "Boulevard de la Madeleine",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-11-13",
+        "check_date:opening_hours": "2024-11-17",
+        "level": "0",
+        "name": "Multichange",
+        "opening_hours:signed": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32707,
+          48.8700064
+        ]
+      },
+      "id": "node/12048858966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12309220975",
+        "amenity": "bureau_de_change",
+        "name": "Maison monétaire de la Bourse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340924,
+          48.87064
+        ]
+      },
+      "id": "node/12309220975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12309229664",
+        "addr:city": "Paris",
+        "addr:housenumber": "39",
+        "addr:postcode": "75002",
+        "addr:street": "Rue Vivienne",
+        "amenity": "bureau_de_change",
+        "name": "Comptoir français de l'or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408354,
+          48.8704826
+        ]
+      },
+      "id": "node/12309229664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12309267595",
+        "amenity": "bureau_de_change",
+        "name": "Vivienne Métaux précieux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3409734,
+          48.8707342
+        ]
+      },
+      "id": "node/12309267595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12729979691",
+        "amenity": "bureau_de_change",
+        "level": "0",
+        "name": "Change Master"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3353302,
+          48.8641883
+        ]
+      },
+      "id": "node/12729979691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12801047931",
+        "amenity": "bureau_de_change",
+        "check_date": "2025-04-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3425824,
+          48.8530981
+        ]
+      },
+      "id": "node/12801047931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13630340919",
+        "amenity": "bureau_de_change",
+        "contact:city": "Paris",
+        "contact:housenumber": "123",
+        "contact:postcode": "75010",
+        "contact:street": "Boulevard de Magenta",
+        "name": "Change",
+        "ref:FR:SIRET": "44950391100017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3524172,
+          48.8800441
+        ]
+      },
+      "id": "node/13630340919"
+    }
+  ]
+}

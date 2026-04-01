@@ -1,0 +1,4261 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-29T20:59:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/191031796",
+        "historic": "milestone",
+        "latitude": "48.853402",
+        "longitude": "2.348785",
+        "man_made": "survey_point",
+        "name": "Point zéro des Routes de France",
+        "name:el": "Σημείο μηδέν για την μέτρηση αποστάσεων στην Γαλλία",
+        "name:en": "Point Zero for French Road Measurements",
+        "name:es": "Punto kilométrico cero de las carreteras francesas",
+        "name:fr": "Point zéro des Routes de France",
+        "name:sk": "Nulový kilometrovník francúzskych ciest",
+        "name:zh": "巴黎 原點",
+        "start_date": "1924",
+        "subject:wikidata": "Q329477",
+        "survey_point:structure": "medallion",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q2467833",
+        "wikipedia": "fr:Point zéro des routes de France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3487885,
+          48.8534015
+        ]
+      },
+      "id": "node/191031796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299730585",
+        "name": "Vedettes de Paris",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2918544,
+          48.8588633
+        ]
+      },
+      "id": "node/299730585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/326372977",
+        "alt_name": "Plus Vieil Arbre de Paris",
+        "circumference": "3.5",
+        "denotation": "natural_monument",
+        "description": "labellisé « Arbre remarquable de France » https://fr.wikipedia.org/wiki/Arbres_remarquables_de_France",
+        "genus": "Robinia",
+        "height": "15",
+        "leaf_type": "broadleaved",
+        "name": "Robinier du square René Viviani",
+        "natural": "tree",
+        "protected": "yes",
+        "ref:opendataparis:id": "124358.0",
+        "species": "Robinia pseudoacacia",
+        "start_date": "1601",
+        "tourism": "attraction",
+        "wikidata": "Q48755299",
+        "wikipedia": "fr:Robinier du square René-Viviani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3472903,
+          48.8521855
+        ]
+      },
+      "id": "node/326372977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411633545",
+        "name": "Place du Carrousel",
+        "name:ar": "ساحة كاروسيل",
+        "name:en": "Carousel Square",
+        "name:ko": "카르젤개선문",
+        "name:ru": "Площадь Каррузель",
+        "name:zh": "卡鲁塞尔广场",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q2723969",
+        "wikipedia": "fr:Place du Carrousel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3340447,
+          48.861633
+        ]
+      },
+      "id": "node/411633545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530585154",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "covered": "no",
+        "fee": "no",
+        "historic": "yes",
+        "indoor": "no",
+        "lit": "yes",
+        "mapillary": "1095600540961985",
+        "name": "Fontaine Cuvier",
+        "panoramax": "ffb26a2f-d486-44a5-be12-557ecbe6ef30",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+        "tourism": "attraction",
+        "wikidata": "Q3076018",
+        "wikipedia": "fr:Fontaine Cuvier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3550311,
+          48.8439963
+        ]
+      },
+      "id": "node/530585154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/681283199",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:floor": "0",
+        "addr:housenumber": "24",
+        "addr:postcode": "75001",
+        "addr:street": "Rue de la Grande Truanderie",
+        "amenity": "restaurant",
+        "check_date": "2026-03-17",
+        "cuisine": "french",
+        "email": "lepetitbouillonpharamond@gmail.com",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Le Petit Bouillon Pharamond",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "outdoor_seating": "pedestrian_zone",
+        "phone": "+33 1 40 28 45 18",
+        "ref:FR:SIRET": "84924795200013",
+        "reservation": "no",
+        "smoking": "outside",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "tourism": "attraction",
+        "website": "https://www.petitbouillonpharamond.com/",
+        "wheelchair": "limited",
+        "wikidata": "Q15918460",
+        "wikipedia": "fr:Pharamond (restaurant)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3485011,
+          48.8630052
+        ]
+      },
+      "id": "node/681283199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/782601793",
+        "alt_name": "Fontaine de Médicis",
+        "amenity": "fountain",
+        "fountain:type": "backed",
+        "heritage": "2",
+        "heritage:operator": "mhs",
+        "heritage:ref": "PA00088519",
+        "historic": "shieling",
+        "mapillary": "144890350863505",
+        "name": "Fontaine Médicis",
+        "survey:date": "2018-05-13",
+        "tourism": "attraction",
+        "website": "https://www.senat.fr/visite/jardin/fontaine_medicis/le_senat_restaure_la_fontaine_medicis.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3076041",
+        "wikipedia": "fr:Fontaine Médicis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3392944,
+          48.8480587
+        ]
+      },
+      "id": "node/782601793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/968153548",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "cuisine:fr": "brasserie;alsacien",
+        "heritage": "3",
+        "heritage:operator": "mhs",
+        "mhs:inscription_date": "1989-03-13",
+        "name": "Brasserie Bofinger",
+        "opening_hours": "Mo-Sa 12:00-15:00, 18:30-00:00; Su 12:00-15:00, 18:30-23:00",
+        "phone": "+33 1 42 72 87 82",
+        "ref:mhs": "PA00086249",
+        "source:heritage": "data.gouv.fr:Ministère de la culture - 08/2017",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "attraction",
+        "website": "https://www.bofingerparis.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q22921405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3680433,
+          48.8539095
+        ]
+      },
+      "id": "node/968153548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193507",
+        "attraction": "animal",
+        "name": "Renard des Steppes",
+        "name:en": "Corsac fox",
+        "name:fr": "Renard des Steppes",
+        "species:wikidata": "Q187024",
+        "species:wikipedia": "fr:Vulpes corsac",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3614522,
+          48.8453955
+        ]
+      },
+      "id": "node/977193507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193689",
+        "alt_name": "Takin du Sichuan",
+        "attraction": "animal",
+        "name": "Takin",
+        "species:wikidata": "Q193469",
+        "species:wikipedia": "fr:Takin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3611035,
+          48.8449433
+        ]
+      },
+      "id": "node/977193689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193735",
+        "attraction": "animal",
+        "name": "Markhor",
+        "species:wikidata": "Q187927",
+        "species:wikipedia": "fr:Markhor",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601919,
+          48.8455992
+        ]
+      },
+      "id": "node/977193735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193908",
+        "attraction": "animal",
+        "name": "Cheval de Przewalski",
+        "name:en": "Przewalski's horse",
+        "name:fr": "Cheval de Przewalski",
+        "species:wikidata": "Q22712",
+        "species:wikipedia": "fr:Cheval de Przewalski",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3610025,
+          48.8455987
+        ]
+      },
+      "id": "node/977193908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193930",
+        "attraction": "animal",
+        "name": "Tapir malais",
+        "species:wikidata": "Q192710",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36141,
+          48.8460274
+        ]
+      },
+      "id": "node/977193930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193947",
+        "attraction": "animal",
+        "name": "Chèvres des montagnes rocheuses",
+        "name:en": "Mountain goat",
+        "name:fr": "Chèvres des montagnes rocheuses",
+        "species:wikidata": "Q242602",
+        "species:wikipedia": "fr:Chèvre des montagnes Rocheuses",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3600837,
+          48.845395
+        ]
+      },
+      "id": "node/977193947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977193965",
+        "attraction": "animal",
+        "name": "Flamant des Caraïbes",
+        "name:en": "American flamingo",
+        "name:fr": "Flamant des Caraïbes",
+        "species:wikidata": "Q208004",
+        "species:wikipedia": "fr:Flamant des Caraïbes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3585787,
+          48.8451325
+        ]
+      },
+      "id": "node/977193965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194054",
+        "attraction": "animal",
+        "name": "Vigognes",
+        "name:en": "Vicuña",
+        "name:fr": "Vigognes",
+        "species:wikidata": "Q167797",
+        "species:wikipedia": "fr:Vigogne",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3615333,
+          48.8448648
+        ]
+      },
+      "id": "node/977194054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194140",
+        "attraction": "animal",
+        "name": "Casoars à casque",
+        "name:en": "Cassowary",
+        "name:lt": "Kazuariniai paukščiai",
+        "name:pl": "Kazuary",
+        "name:uk": "Казуароподібні",
+        "species:wikidata": "Q375790",
+        "species:wikipedia": "fr:Casoar à casque",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.360275,
+          48.8461195
+        ]
+      },
+      "id": "node/977194140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194246",
+        "attraction": "animal",
+        "name": "Oryx d'Arabie",
+        "species:wikidata": "Q237286",
+        "species:wikipedia": "fr:Oryx d'Arabie",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3620536,
+          48.8449788
+        ]
+      },
+      "id": "node/977194246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194357",
+        "attraction": "animal",
+        "name": "Gaur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35884,
+          48.8444306
+        ]
+      },
+      "id": "node/977194357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194454",
+        "attraction": "animal",
+        "name": "Pademelons",
+        "species:wikidata": "Q209167",
+        "species:wikipedia": "fr:Thylogale brunii",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3589585,
+          48.8450246
+        ]
+      },
+      "id": "node/977194454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194483",
+        "attraction": "animal",
+        "name": "Sanglier de Visayas",
+        "species:wikidata": "Q859200",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3592364,
+          48.8448968
+        ]
+      },
+      "id": "node/977194483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194543",
+        "attraction": "animal",
+        "name": "Chèvres du Sénégal",
+        "name:en": "Pygmy goat",
+        "name:fr": "Chèvres du Sénégal",
+        "species": "Capra h. hircus",
+        "species:wikidata": "Q2934",
+        "species:wikipedia": "fr:Chèvre",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3594168,
+          48.8445478
+        ]
+      },
+      "id": "node/977194543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194662",
+        "attraction": "animal",
+        "name": "Wallaby de Bennett",
+        "species:wikidata": "Q20902621",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578617,
+          48.844406
+        ]
+      },
+      "id": "node/977194662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194828",
+        "attraction": "animal",
+        "name": "Gaur",
+        "species:wikidata": "Q174296",
+        "species:wikipedia": "fr:Gayal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3581762,
+          48.8446941
+        ]
+      },
+      "id": "node/977194828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194847",
+        "attraction": "animal",
+        "name": "Goral",
+        "species:wikidata": "Q1370188",
+        "species:wikipedia": "fr:Goral",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3603422,
+          48.8451002
+        ]
+      },
+      "id": "node/977194847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977194883",
+        "attraction": "animal",
+        "name": "Gaur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3593861,
+          48.8443675
+        ]
+      },
+      "id": "node/977194883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977195099",
+        "attraction": "animal",
+        "name": "Potamochère roux",
+        "name:en": "Red river hog",
+        "name:fr": "Potamochère roux",
+        "species:wikidata": "Q654370",
+        "species:wikipedia": "fr:Potamochoerus porcus",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3605583,
+          48.8446411
+        ]
+      },
+      "id": "node/977195099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977195237",
+        "attraction": "animal",
+        "name": "Ara",
+        "species:wikidata": "Q219035",
+        "species:wikipedia": "fr:Ara (oiseau)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3599754,
+          48.8457133
+        ]
+      },
+      "id": "node/977195237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1000763331",
+        "name": "Trompe-œil Bach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366252,
+          48.8307373
+        ]
+      },
+      "id": "node/1000763331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052608",
+        "name": "Himalaya",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3591577,
+          48.844063
+        ]
+      },
+      "id": "node/1107052608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052618",
+        "name": "Serre de Nouvelle-Calédonie",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572563,
+          48.8431338
+        ]
+      },
+      "id": "node/1107052618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052799",
+        "name": "Cévennes",
+        "name:de": "Cevennen",
+        "name:fr": "Cévennes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3586581,
+          48.8439327
+        ]
+      },
+      "id": "node/1107052799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052804",
+        "name": "Maroc",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3588085,
+          48.8441742
+        ]
+      },
+      "id": "node/1107052804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052847",
+        "name": "Corse",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3590142,
+          48.8441587
+        ]
+      },
+      "id": "node/1107052847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052875",
+        "name": "Forêts tropicales humides",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wheelchair:description": "Has a wheelchair lift that once worked, but looks like it has been out of action for a long time. 8 steps to get inside."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3580196,
+          48.8433054
+        ]
+      },
+      "id": "node/1107052875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052881",
+        "attraction": "animal",
+        "name": "Rapaces diurnes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3599834,
+          48.8458624
+        ]
+      },
+      "id": "node/1107052881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107052993",
+        "name": "Espagne",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3585181,
+          48.8441758
+        ]
+      },
+      "id": "node/1107052993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053051",
+        "name": "Balkans",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3582832,
+          48.8440565
+        ]
+      },
+      "id": "node/1107053051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053257",
+        "name": "Provence",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3586465,
+          48.8441366
+        ]
+      },
+      "id": "node/1107053257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053281",
+        "name": "Préalpes",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3585197,
+          48.8439166
+        ]
+      },
+      "id": "node/1107053281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053404",
+        "name": "USA",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3589658,
+          48.8440008
+        ]
+      },
+      "id": "node/1107053404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053526",
+        "name": "Zone arides des déserts",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575411,
+          48.8431839
+        ]
+      },
+      "id": "node/1107053526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053532",
+        "name": "Alpes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358275,
+          48.8439389
+        ]
+      },
+      "id": "node/1107053532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053598",
+        "name": "Histoire des Plantes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3568019,
+          48.8429803
+        ]
+      },
+      "id": "node/1107053598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053909",
+        "name": "Caucase",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359246,
+          48.8441665
+        ]
+      },
+      "id": "node/1107053909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107053911",
+        "fee": "full : 9; discount : 7",
+        "fee:currency": "euro",
+        "name": "La Galerie des Enfants",
+        "opening_hours": "We 10:00-18:00; Sa-Su 10:00-18:00; SH Mo 10:00-18:00; SH We-Su 10:00-18:00; May 01: off",
+        "tourism": "attraction",
+        "website": "http://www.galeriedesenfants.com/",
+        "website:booking": "http://billetterie.mnhn.fr/Offres.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3561671,
+          48.8425172
+        ]
+      },
+      "id": "node/1107053911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107054023",
+        "name": "Japon - Chine",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3594894,
+          48.8440975
+        ]
+      },
+      "id": "node/1107054023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107054668",
+        "name": "Tourbière",
+        "species:wikidata": "Q1681353",
+        "species:wikipedia": "fr:Tourbière",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3582264,
+          48.8438012
+        ]
+      },
+      "id": "node/1107054668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125739784",
+        "attraction": "animal",
+        "name": "Rapaces nocturnes",
+        "name:en": "Owl",
+        "name:fr": "Rapaces nocturnes",
+        "species:wikidata": "Q3419353",
+        "species:wikipedia": "fr:Rapaces nocturnes de France",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3612089,
+          48.8445919
+        ]
+      },
+      "id": "node/1125739784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125740200",
+        "attraction": "animal",
+        "name": "Panda roux",
+        "name:en": "Red panda",
+        "name:fr": "Panda roux",
+        "species:wikidata": "Q41960",
+        "species:wikipedia": "fr:Ailurus fulgens",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3598139,
+          48.8441801
+        ]
+      },
+      "id": "node/1125740200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125740585",
+        "attraction": "animal",
+        "name": "Binturong",
+        "species:wikidata": "Q213141",
+        "species:wikipedia": "fr:Binturong",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601736,
+          48.8442979
+        ]
+      },
+      "id": "node/1125740585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1242504311",
+        "addr:housenumber": "12",
+        "addr:street": "Passage Verdeau",
+        "name": "Cabinet de curiosités",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3423149,
+          48.8733087
+        ]
+      },
+      "id": "node/1242504311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656250107",
+        "access": "no",
+        "alt_name": "Tours de la Cathédrale",
+        "charge": "full:10 EUR;discount:8 EUR",
+        "fee": "yes",
+        "name": "Tours de Notre-Dame",
+        "name:en": "Notre Dame",
+        "name:zh": "巴黎圣母院",
+        "note:en": "Last admission 45 min before closing, reservation required",
+        "note:fr": "Dernier accès 45 min avant la fermeture, réservation obligatoire",
+        "opening_hours": "Jan-Mar Mo-Su 10:00-17:30; Apr-Jun Mo-Su 10:00-18:30; Jul-Aug Mo-Th 10:00-18:30; Fr-Sa 10:00-23:00; Su 10:00-18:30; Sep-Oct Mo-Su 10:00-18:30; Nov-Dec Mo-Su 10:00-17:30; Jan 01 off; May 01 off; Dec 25 off",
+        "operator": "Centre des Monuments Nationaux",
+        "phone": "+33 1 53 40 60 80",
+        "tourism": "attraction",
+        "website:en": "http://notre-dame-de-paris.monuments-nationaux.fr/en/",
+        "website:es": "http://notre-dame-de-paris.monuments-nationaux.fr/es/",
+        "website:fr": "http://notre-dame-de-paris.monuments-nationaux.fr/fr/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3493036,
+          48.8533658
+        ]
+      },
+      "id": "node/1656250107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986745614",
+        "alt_name": "Cabaret Le Lido",
+        "amenity": "theatre",
+        "contact:city": "Paris",
+        "contact:facebook": "https://www.facebook.com/lido2paris",
+        "contact:housenumber": "116",
+        "contact:instagram": "https://www.instagram.com/lidoparis/",
+        "contact:linkedin": "https://www.linkedin.com/company/lido2paris/mycompany/",
+        "contact:postcode": "75008",
+        "contact:street": "Avenue des Champs-Élysées",
+        "contact:twitter": "https://twitter.com/LidoParis",
+        "name": "Le Lido",
+        "name:en": "Cabaret Lido",
+        "name:fr": "Cabaret Le Lido",
+        "name:ru": "Кабаре Лидо",
+        "name:zh": "丽都夜总会",
+        "phone": "+33 1 40 76 56 10",
+        "ref:FR:NAF": "90.04Z",
+        "ref:FR:SIREN": "662029057",
+        "ref:FR:SIRET": "66202905700020",
+        "start_date": "1966-01-01",
+        "tourism": "attraction",
+        "website": "https://www.lido.fr",
+        "wheelchair": "yes",
+        "wikidata": "Q1810868",
+        "wikipedia": "fr:Lido (cabaret)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3008705,
+          48.8724266
+        ]
+      },
+      "id": "node/1986745614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088851929",
+        "heritage": "3",
+        "heritage:operator": "mhs",
+        "mhs:inscription_date": "1986",
+        "name": "Chais et Entrepôts de Bercy",
+        "ref:mhs": "PA00086565",
+        "source": "data.gouv.fr:Ministère de la Culture - 08/2011",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q3055287",
+        "wikipedia": "fr:Entrepôt de Bercy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3883176,
+          48.8327851
+        ]
+      },
+      "id": "node/2088851929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2146848454",
+        "name": "Cité Florale",
+        "place": "neighbourhood",
+        "tourism": "attraction",
+        "wikidata": "Q2974809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3448195,
+          48.822703
+        ]
+      },
+      "id": "node/2146848454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183872370",
+        "alt_name": "Charles V Clock",
+        "amenity": "clock",
+        "display": "analog",
+        "faces": "1",
+        "historic": "clock",
+        "indoor": "no",
+        "name": "Tour de l'Horloge",
+        "start_date": "1370-1371",
+        "support": "wall_mounted",
+        "tourism": "attraction",
+        "visibility": "area",
+        "website": "https://www.sortiraparis.com/en/what-to-visit-in-paris/history-heritage/articles/290363-did-you-know-this-is-the-oldest-clock-in-paris-and-its-fascinating-history",
+        "wikidata": "Q96745562",
+        "wikimedia_commons": "File:Charles V Clock - Clock Tower - Conciergerie, Paris 75001 2.jpg",
+        "wikipedia": "fr:Tour de l'Horloge du palais de la Cité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3462327,
+          48.856193
+        ]
+      },
+      "id": "node/2183872370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386545714",
+        "addr:postcode": "75014",
+        "description": "visite uniquement sur RdV",
+        "location": "underground",
+        "name": "Carrières souterraines des Capucins",
+        "name:de": "Museum der antiken Capucins-Steinbrüche",
+        "tourism": "attraction",
+        "website": "https://www.seadacc.com/",
+        "wikidata": "Q15431658",
+        "wikipedia": "fr:Carrières souterraines des Capucins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3395284,
+          48.8371564
+        ]
+      },
+      "id": "node/2386545714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2407752390",
+        "man_made": "tower",
+        "name": "Eiffel Tower",
+        "name:de": "Eiffelturm",
+        "name:en": "Eiffel Tower",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0440305,
+          43.2844294
+        ]
+      },
+      "id": "node/2407752390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446495467",
+        "addr:housename": "Maison Saint-Loup",
+        "name": "Maison de Madame Violet Trefusis",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328973,
+          48.850924
+        ]
+      },
+      "id": "node/2446495467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448402214",
+        "name": "Canauxrama",
+        "note": "Croisières sur les canaux parisiens, la Seine, la Marne",
+        "tourism": "attraction",
+        "website": "https://www.canauxrama.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3681264,
+          48.8508544
+        ]
+      },
+      "id": "node/2448402214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192366",
+        "attraction": "animal",
+        "name": "Babouin de Guinée",
+        "species:wikidata": "Q748929",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4198595,
+          48.8332416
+        ]
+      },
+      "id": "node/2845192366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192370",
+        "attraction": "animal",
+        "name": "Capucin",
+        "name:nl": "Kapucijnaap",
+        "species:wikidata": "Q1061964",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4172099,
+          48.8327665
+        ]
+      },
+      "id": "node/2845192370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192371",
+        "attraction": "animal",
+        "name": "Capybara",
+        "name:nl": "Capybara",
+        "species:wikidata": "Q131538",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4176311,
+          48.8335185
+        ]
+      },
+      "id": "node/2845192371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192372",
+        "attraction": "animal",
+        "name": "Chien des buissons",
+        "name:nl": "Boshond",
+        "species:wikidata": "Q191737",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4181101,
+          48.8335694
+        ]
+      },
+      "id": "node/2845192372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192373",
+        "attraction": "animal",
+        "name": "Girafe",
+        "name:nl": "Giraffe",
+        "species:wikidata": "Q15083",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4194524,
+          48.8323403
+        ]
+      },
+      "id": "node/2845192373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192374",
+        "attraction": "animal",
+        "name": "Glouton",
+        "name:nl": "Veelvraat",
+        "species:wikidata": "Q14334",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4183487,
+          48.8339227
+        ]
+      },
+      "id": "node/2845192374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192375",
+        "attraction": "animal",
+        "name": "Grand Koudou",
+        "name:en": "Greater kudu",
+        "name:nl": "Grote kudu",
+        "species:wikidata": "Q139487",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4184285,
+          48.8328776
+        ]
+      },
+      "id": "node/2845192375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192376",
+        "attraction": "animal",
+        "name": "Guanaco",
+        "species:wikidata": "Q172886",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4168664,
+          48.8317882
+        ]
+      },
+      "id": "node/2845192376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192377",
+        "attraction": "animal",
+        "name": "Jaguar",
+        "name:nl": "Jaguar",
+        "species:wikidata": "Q35694",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4180359,
+          48.8334011
+        ]
+      },
+      "id": "node/2845192377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192380",
+        "attraction": "animal",
+        "name": "Lion d'Afrique",
+        "name:en": "African lion",
+        "name:nl": "Afrikaanse leeuw",
+        "species:wikidata": "Q140",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41959,
+          48.8310766
+        ]
+      },
+      "id": "node/2845192380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192381",
+        "attraction": "animal",
+        "name": "Loup ibérique",
+        "name:nl": "Iberische wolf",
+        "species:wikidata": "Q1068694",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4190277,
+          48.8341311
+        ]
+      },
+      "id": "node/2845192381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192382",
+        "attraction": "animal",
+        "name": "Lynx d'Europe",
+        "name:nl": "Europese lynx",
+        "species:wikidata": "Q43375",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4180006,
+          48.8338315
+        ]
+      },
+      "id": "node/2845192382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192383",
+        "attraction": "animal",
+        "name": "Mara",
+        "name:nl": "Mara",
+        "species:wikidata": "Q194313",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.416247,
+          48.8322148
+        ]
+      },
+      "id": "node/2845192383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192384",
+        "attraction": "animal",
+        "name": "Marabout d'Afrique",
+        "name:en": "Marabou stork",
+        "name:nl": "Afrikaans maraboe",
+        "species:wikidata": "Q512737",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4179368,
+          48.8327121
+        ]
+      },
+      "id": "node/2845192384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192386",
+        "attraction": "animal",
+        "name": "Propithèque couronné",
+        "name:nl": "Kroonsifaka",
+        "species:wikidata": "Q179384",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4159236,
+          48.8328041
+        ]
+      },
+      "id": "node/2845192386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192387",
+        "attraction": "animal",
+        "name": "Poudou",
+        "species:wikidata": "Q927065",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4177516,
+          48.8310245
+        ]
+      },
+      "id": "node/2845192387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192388",
+        "attraction": "animal",
+        "name": "Singe laineux",
+        "species:wikidata": "Q1061113",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4174663,
+          48.8329881
+        ]
+      },
+      "id": "node/2845192388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192389",
+        "attraction": "animal",
+        "name": "Tapir terrestre",
+        "name:nl": "Laaglandtapir",
+        "species:wikidata": "Q220271",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.417529,
+          48.8333984
+        ]
+      },
+      "id": "node/2845192389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192390",
+        "attraction": "animal",
+        "name": "Vautour fauve",
+        "species:wikidata": "Q177856",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.419898,
+          48.8343102
+        ]
+      },
+      "id": "node/2845192390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845192391",
+        "attraction": "animal",
+        "name": "Zèbre de Grévy",
+        "name:nl": "Grévy zebra",
+        "species:wikidata": "Q219565",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4183734,
+          48.8316935
+        ]
+      },
+      "id": "node/2845192391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846035531",
+        "attraction": "animal",
+        "name": "Autruche",
+        "name:nl": "Struisvogel",
+        "species:wikidata": "Q2576337",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4182148,
+          48.8325853
+        ]
+      },
+      "id": "node/2846035531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149302",
+        "attraction": "animal",
+        "name": "Addax",
+        "species:wikidata": "Q190154",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4185267,
+          48.8321129
+        ]
+      },
+      "id": "node/2846149302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149304",
+        "attraction": "animal",
+        "name": "Grand Calao terrestre",
+        "species:wikidata": "Q685074",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4186572,
+          48.8313143
+        ]
+      },
+      "id": "node/2846149304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149305",
+        "attraction": "animal",
+        "name": "Grue couronnée",
+        "name:en": "Crowned crane",
+        "name:nl": "Kroonkraanvogel",
+        "species:wikidata": "Q379761",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4184909,
+          48.8326179
+        ]
+      },
+      "id": "node/2846149305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149306",
+        "attraction": "animal",
+        "name": "Manchot de Humboldt",
+        "name:nl": "Humboldtpinguïn",
+        "species:wikidata": "Q224151",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4175394,
+          48.8317571
+        ]
+      },
+      "id": "node/2846149306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149307",
+        "attraction": "animal",
+        "name": "Vigogne",
+        "name:nl": "Darwins nandoe",
+        "species:wikidata": "Q733120",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.415763,
+          48.8326251
+        ]
+      },
+      "id": "node/2846149307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149308",
+        "attraction": "animal",
+        "name": "Otarie à crinière",
+        "species:wikidata": "Q333649",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4172845,
+          48.8320654
+        ]
+      },
+      "id": "node/2846149308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149310",
+        "attraction": "animal",
+        "name": "Puma",
+        "name:nl": "Poema",
+        "species:wikidata": "Q35255",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4179519,
+          48.831296
+        ]
+      },
+      "id": "node/2846149310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846149311",
+        "attraction": "animal",
+        "name": "Rhinocéros blanc",
+        "name:nl": "Witte neushoorn",
+        "species:wikidata": "Q159918",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188586,
+          48.8315124
+        ]
+      },
+      "id": "node/2846149311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511622",
+        "attraction": "animal",
+        "name": "Aigrette garzette",
+        "name:nl": "Koereiger",
+        "species:wikidata": "Q131709",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.418647,
+          48.833723
+        ]
+      },
+      "id": "node/2846511622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511623",
+        "attraction": "animal",
+        "name": "Ara hyacinthe",
+        "name:nl": "Hyacinthara",
+        "species:wikidata": "Q463154",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4172979,
+          48.8333367
+        ]
+      },
+      "id": "node/2846511623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511624",
+        "attraction": "animal",
+        "name": "Avocette élégante",
+        "species:wikidata": "Q26147",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41868,
+          48.833656
+        ]
+      },
+      "id": "node/2846511624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511625",
+        "attraction": "animal",
+        "name": "Calao trompette",
+        "species:wikidata": "Q1262205",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4185416,
+          48.8336347
+        ]
+      },
+      "id": "node/2846511625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511627",
+        "attraction": "animal",
+        "name": "Chevalier gambette",
+        "species:wikidata": "Q18859",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4187338,
+          48.8335914
+        ]
+      },
+      "id": "node/2846511627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511628",
+        "attraction": "animal",
+        "name": "Cigogne d'Abdim",
+        "name:nl": "Abdims ooievaar",
+        "species:wikidata": "Q308199",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188073,
+          48.8337427
+        ]
+      },
+      "id": "node/2846511628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511629",
+        "attraction": "animal",
+        "name": "Dendrocygne fauve",
+        "name:nl": "Rosse fluiteend",
+        "species:wikidata": "Q740741",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4186222,
+          48.833559
+        ]
+      },
+      "id": "node/2846511629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511630",
+        "attraction": "animal",
+        "name": "Echasse blanche",
+        "species:wikidata": "Q178821",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188435,
+          48.8335487
+        ]
+      },
+      "id": "node/2846511630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511631",
+        "attraction": "animal",
+        "name": "Flamant rose",
+        "name:nl": "Gewone flamingo",
+        "species:wikidata": "Q179863",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4187406,
+          48.8335036
+        ]
+      },
+      "id": "node/2846511631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511633",
+        "attraction": "animal",
+        "name": "Fossa",
+        "name:nl": "Fossa",
+        "species:wikidata": "Q183330",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.415708,
+          48.833464
+        ]
+      },
+      "id": "node/2846511633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511634",
+        "attraction": "animal",
+        "name": "Lémuriens",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4160451,
+          48.8331122
+        ]
+      },
+      "id": "node/2846511634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511635",
+        "attraction": "animal",
+        "name": "Héron garde-bœuf",
+        "species:wikidata": "Q132669",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4187471,
+          48.8336902
+        ]
+      },
+      "id": "node/2846511635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511636",
+        "attraction": "animal",
+        "name": "Ibis chauve",
+        "species:wikidata": "Q245414",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4187481,
+          48.8337317
+        ]
+      },
+      "id": "node/2846511636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511637",
+        "attraction": "animal",
+        "name": "Ibis falcinelle",
+        "species:wikidata": "Q178811",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4187199,
+          48.8337548
+        ]
+      },
+      "id": "node/2846511637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511638",
+        "attraction": "animal",
+        "name": "Loutre d'Europe",
+        "name:nl": "Europese otter",
+        "species:wikidata": "Q29995",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4201002,
+          48.8338687
+        ]
+      },
+      "id": "node/2846511638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511643",
+        "attraction": "animal",
+        "name": "Milan royal",
+        "species:wikidata": "Q156250",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4198391,
+          48.8340761
+        ]
+      },
+      "id": "node/2846511643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511644",
+        "attraction": "animal",
+        "name": "Ombrette",
+        "species:wikidata": "Q652151",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.418609,
+          48.8336728
+        ]
+      },
+      "id": "node/2846511644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511645",
+        "attraction": "animal",
+        "name": "Pigeon de Guinée",
+        "name:nl": "Guineaduif",
+        "species:wikidata": "Q855618",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188171,
+          48.833626
+        ]
+      },
+      "id": "node/2846511645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511646",
+        "attraction": "animal",
+        "name": "Roussette paillée africaine",
+        "name:nl": "Palmvleerhond",
+        "species:wikidata": "Q33108",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167909,
+          48.83363
+        ]
+      },
+      "id": "node/2846511646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511647",
+        "attraction": "animal",
+        "name": "Sarcelle hottentote",
+        "species:wikidata": "Q937142",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4186125,
+          48.8335077
+        ]
+      },
+      "id": "node/2846511647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511648",
+        "attraction": "animal",
+        "name": "Souchet d'Europe",
+        "species:wikidata": "Q25940",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4186801,
+          48.8335388
+        ]
+      },
+      "id": "node/2846511648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511649",
+        "attraction": "animal",
+        "name": "Spatule d'Afrique",
+        "name:nl": "Afrikaanse lepelaar",
+        "species:wikidata": "Q512348",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.418539,
+          48.833693
+        ]
+      },
+      "id": "node/2846511649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511650",
+        "attraction": "animal",
+        "name": "Tantale ibis",
+        "species:wikidata": "Q655510",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188689,
+          48.8336694
+        ]
+      },
+      "id": "node/2846511650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511651",
+        "attraction": "animal",
+        "name": "Tortue rayonnée",
+        "name:nl": "Stralenschildpad",
+        "species:wikidata": "Q630954",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4163472,
+          48.8327045
+        ]
+      },
+      "id": "node/2846511651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511652",
+        "attraction": "animal",
+        "name": "Touraco violet",
+        "name:nl": "Violetschildtoerako",
+        "species:wikidata": "Q667395",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4185543,
+          48.8335913
+        ]
+      },
+      "id": "node/2846511652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511653",
+        "attraction": "animal",
+        "name": "Vanneau armé",
+        "species:wikidata": "Q931114",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4188822,
+          48.8336099
+        ]
+      },
+      "id": "node/2846511653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511654",
+        "attraction": "animal",
+        "name": "Vautour moine",
+        "species:wikidata": "Q168677",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4199097,
+          48.8342155
+        ]
+      },
+      "id": "node/2846511654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511655",
+        "attraction": "animal",
+        "name": "Vautour percnoptère",
+        "species:wikidata": "Q33504",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4198114,
+          48.8341778
+        ]
+      },
+      "id": "node/2846511655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846511656",
+        "attraction": "animal",
+        "name": "Vivarium européen",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4198954,
+          48.8338149
+        ]
+      },
+      "id": "node/2846511656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850618498",
+        "addr:street": "Rue de Longchamp",
+        "genus": "Platanus",
+        "leaf_type": "broadleaved",
+        "name:signed": "no",
+        "natural": "tree",
+        "source": "opendata.paris.fr",
+        "species": "Platanus × hispanica",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.278936,
+          48.866889
+        ]
+      },
+      "id": "node/2850618498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871805621",
+        "alt_name": "Porte du Coq",
+        "barrier": "gate",
+        "name": "Grille du Coq",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3152392,
+          48.8684576
+        ]
+      },
+      "id": "node/2871805621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3134285383",
+        "fixme": "position estimated",
+        "level": "3",
+        "min_height": "276.13",
+        "name": "Bureau de Gustave Eiffel",
+        "name:en": "Gustave Eiffel's Office",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2945812,
+          48.8582685
+        ]
+      },
+      "id": "node/3134285383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611517346",
+        "heritage": "3",
+        "heritage:operator": "mhs",
+        "mhs:inscription_date": "1997",
+        "name": "Cour de l'Etoile d'Or",
+        "ref:mhs": "PA00086541",
+        "source:heritage": "data.gouv.fr:Ministère de la Culture - 08/2011",
+        "tourism": "attraction",
+        "wikidata": "Q3001019",
+        "wikipedia": "fr:Cour de l'Étoile d'or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3749353,
+          48.8522054
+        ]
+      },
+      "id": "node/3611517346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3880146677",
+        "addr:city": "Paris",
+        "addr:housenumber": "2025",
+        "addr:postcode": "75460",
+        "addr:state": "TX",
+        "addr:street": "South Collegiate Drive",
+        "name": "Eiffel Tower",
+        "tourism": "attraction",
+        "wikidata": "Q25223034",
+        "wikipedia": "en:Eiffel Tower (Paris, Texas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5238698,
+          33.6398652
+        ]
+      },
+      "id": "node/3880146677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4376593595",
+        "amenity": "fountain",
+        "name": "Fontaine du Fellah",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q3076272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3210687,
+          48.84879
+        ]
+      },
+      "id": "node/4376593595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4464507289",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3232128,
+          48.8507094
+        ]
+      },
+      "id": "node/4464507289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471577804",
+        "addr:street": "Rue des Eaux",
+        "name": "Rue des Eaux",
+        "name:fr": "Rue des Eaux",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28408,
+          48.8575654
+        ]
+      },
+      "id": "node/4471577804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533627787",
+        "addr:city": "Paris",
+        "addr:place": "Champs-Elysées",
+        "alt_name": "Шанзелизе",
+        "alt_name:sr": "Шанзелизе",
+        "name": "Champs Élysées",
+        "name:hi": "शॉन्ज़-एलिसीज़ मार्ग",
+        "name:ru": "Шанзелизе",
+        "name:sr": "Јелисејска поља",
+        "tourism": "attraction",
+        "website": "https://en.parisinfo.com/transport/73130/Avenue-des-Champs-Elysees",
+        "wikidata": "Q550",
+        "wikipedia": "en:Champs-Élysées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3053312,
+          48.8707573
+        ]
+      },
+      "id": "node/4533627787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551552",
+        "attraction": "animal",
+        "name": "Anoa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3624736,
+          48.845316
+        ]
+      },
+      "id": "node/4705551552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551553",
+        "attraction": "animal",
+        "name": "Tortue géante des Seychelles",
+        "name:en": "Aldabra giant tortoise",
+        "name:fr": "Tortue géante des Seychelles",
+        "species:wikidata": "Q16104368",
+        "species:wikipedia": "fr:Tortue des Seychelles",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3596855,
+          48.8445932
+        ]
+      },
+      "id": "node/4705551553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551570",
+        "attraction": "animal",
+        "name": "Porcs-épics",
+        "name:en": "Porcupine",
+        "name:fr": "Porcs-épics",
+        "species:wikidata": "Q1223829",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3595762,
+          48.8454834
+        ]
+      },
+      "id": "node/4705551570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551571",
+        "attraction": "animal",
+        "name": "Outardes Houbara",
+        "name:en": "Houbara bustard",
+        "species:wikidata": "Q290871",
+        "species:wikipedia": "fr:Outarde houbara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3605176,
+          48.8463094
+        ]
+      },
+      "id": "node/4705551571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551572",
+        "attraction": "animal",
+        "name": "Bharal",
+        "species:wikidata": "Q1004741",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3605739,
+          48.8456281
+        ]
+      },
+      "id": "node/4705551572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551573",
+        "attraction": "animal",
+        "name": "Chat de Pallas",
+        "name:en": "Pallas's cat",
+        "name:fr": "Chat de Pallas",
+        "species:wikidata": "Q166794",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3618426,
+          48.8447297
+        ]
+      },
+      "id": "node/4705551573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551574",
+        "attraction": "animal",
+        "name": "Martre à gorge jaune",
+        "name:en": "Yellow-throated marten",
+        "name:fr": "Martre à gorge jaune",
+        "species:wikidata": "Q220248",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362017,
+          48.8447668
+        ]
+      },
+      "id": "node/4705551574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551575",
+        "attraction": "animal",
+        "name": "Arkal",
+        "species:wikidata": "Q839513",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3597438,
+          48.8443683
+        ]
+      },
+      "id": "node/4705551575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551578",
+        "attraction": "animal",
+        "name": "Nilgaut",
+        "name:en": "Nilgai",
+        "name:fr": "Nilgaut",
+        "species:wikidata": "Q200444",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3606068,
+          48.8449237
+        ]
+      },
+      "id": "node/4705551578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551579",
+        "attraction": "animal",
+        "name": "Nandou",
+        "species:wikidata": "Q19171",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3610306,
+          48.8447013
+        ]
+      },
+      "id": "node/4705551579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755897334",
+        "name": "Versalles",
+        "name:fr": "Versalles",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2880076,
+          48.8324071
+        ]
+      },
+      "id": "node/4755897334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816418121",
+        "addr:housenumber": "21 bis",
+        "addr:postcode": "75014",
+        "addr:street": "Avenue René Coty",
+        "fee": "no",
+        "name": "Sortie des Catacombes",
+        "name:en": "Catacombs exit",
+        "name:fr": "Sortie des Catacombes",
+        "opening_hours": "Tu-Su 10:00-20:30",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3345327,
+          48.8295257
+        ]
+      },
+      "id": "node/4816418121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4844461628",
+        "name": "Montparnasse",
+        "name:fr": "Montparnasse",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3286868,
+          48.8424217
+        ]
+      },
+      "id": "node/4844461628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5192389258",
+        "historic": "memorial",
+        "image": "https://live.staticflickr.com/4078/4932346082_01f671e313_b.jpg",
+        "inscription": "LE 23 MARS 1918 À 7h20 DU MATIN LE PREMIER OBUS DE LA BERTHA EST TOMBÉ DEVANT CET IMMEUBLE",
+        "material": "bronze",
+        "memorial": "plaque",
+        "name": "Plaque commémorant la première frappe du canon allemand « Pariser Kanonen », le 23 mars 1918",
+        "name:de": "Gedenktafel zum Gedenken an den ersten Schlag der „Pariser Kanone“, 23. März 1918",
+        "name:en": "Plaque commemorating the first strike of the \"Paris Gun\", 23ᵗʰ March, 1918",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3708845,
+          48.8847546
+        ]
+      },
+      "id": "node/5192389258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221190419",
+        "alt_name": "Nicole Barthelemy Fromager",
+        "check_date": "2025-05-01",
+        "name": "Barthélémy",
+        "opening_hours": "Tu-Th 08:30-13:30,15:30-19:15; Fr-Sa 08:30-19:00",
+        "ref:FR:SIREN": "395147267",
+        "ref:FR:SIRET": "39514726700011",
+        "shop": "cheese",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3255993,
+          48.8544952
+        ]
+      },
+      "id": "node/5221190419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426450579",
+        "name": "Gnomon astronomique",
+        "tourism": "attraction",
+        "wikidata": "Q5574377",
+        "wikipedia": "fr:Méridienne de l'église Saint-Sulpice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3349582,
+          48.8512608
+        ]
+      },
+      "id": "node/5426450579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504190026",
+        "addr:street": "Pont du Carrousel",
+        "name": "Pont du Carroussel",
+        "tourism": "attraction",
+        "wikidata": "Q589000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3328879,
+          48.8592971
+        ]
+      },
+      "id": "node/5504190026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504204621",
+        "addr:street": "Pont Morland",
+        "name": "Pont Morland",
+        "name:zh": "莫兰桥",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3659914,
+          48.8471128
+        ]
+      },
+      "id": "node/5504204621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504243422",
+        "addr:street": "Rue des Saules",
+        "name": "Angle des rues des Saules et Francœur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3405192,
+          48.8908314
+        ]
+      },
+      "id": "node/5504243422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504405621",
+        "addr:street": "Rue des Rosiers",
+        "name": "Rue des Rosiers",
+        "tourism": "attraction",
+        "wikidata": "Q3176233",
+        "wikipedia": "fr:Rue des Rosiers (Paris)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3581374,
+          48.8577892
+        ]
+      },
+      "id": "node/5504405621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504419522",
+        "addr:street": "Square de Montsouris",
+        "name": "Square de Montsouris",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3336268,
+          48.8236132
+        ]
+      },
+      "id": "node/5504419522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504419523",
+        "addr:street": "Rue Lamarck",
+        "name": "Rue Lamarck",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3438778,
+          48.8888739
+        ]
+      },
+      "id": "node/5504419523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504421021",
+        "addr:street": "Rue de l'Abreuvoir",
+        "name": "Rue de l'Abreuvoir",
+        "name:zh": "饮水槽街",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3389711,
+          48.8882109
+        ]
+      },
+      "id": "node/5504421021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5510786921",
+        "name": "Gare Abandonnée - Ateliers d’Avron",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4076479,
+          48.8535156
+        ]
+      },
+      "id": "node/5510786921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5615809866",
+        "name": "La Petite Alsace",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3463423,
+          48.8278467
+        ]
+      },
+      "id": "node/5615809866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053950795",
+        "name": "Marché aux Timbres",
+        "name:en": "stamp market",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3144686,
+          48.8687721
+        ]
+      },
+      "id": "node/6053950795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6066233436",
+        "attraction": "carousel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2900265,
+          48.8602972
+        ]
+      },
+      "id": "node/6066233436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135491044",
+        "attraction": "carousel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2715031,
+          48.8517143
+        ]
+      },
+      "id": "node/6135491044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139635385",
+        "name": "old Toulouse-Lautrec's studio",
+        "name:en": "old Toulouse-Lautrec's studio",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3332331,
+          48.887505
+        ]
+      },
+      "id": "node/6139635385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139635386",
+        "note:en": "Van Gogh ofted visited this temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2872469,
+          48.8768088
+        ]
+      },
+      "id": "node/6139635386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139648385",
+        "name": "Theo and Jo (Van Gogh bro)",
+        "name:en": "Theo and Jo (Van Gogh bro)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3337623,
+          48.8802266
+        ]
+      },
+      "id": "node/6139648385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6193948586",
+        "addr:housenumber": "74",
+        "addr:street": "Rue du Cardinal Lemoine",
+        "name": "Appartement de Ernest Hemingway",
+        "name:fr": "Appartement de Ernest Hemingway",
+        "name:zh": "海明威故居",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3495962,
+          48.8448459
+        ]
+      },
+      "id": "node/6193948586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6193953285",
+        "addr:city": "Paris",
+        "addr:housenumber": "14",
+        "addr:postcode": "75005",
+        "addr:street": "Rue Rollin",
+        "name": "Résidence Rollin",
+        "name:fr": "Résidence Rollin",
+        "name:zh": "笛卡尔故居",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350314,
+          48.8448083
+        ]
+      },
+      "id": "node/6193953285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239517889",
+        "name": "Rue Mouffetard",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3498169,
+          48.8398068
+        ]
+      },
+      "id": "node/6239517889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260601885",
+        "addr:housenumber": "24",
+        "addr:postcode": "75011",
+        "addr:street": "Rue Émile Lepeu",
+        "email": "contact@one-hour.fr",
+        "name": "One Hour",
+        "phone": "+33 972545043",
+        "tourism": "attraction",
+        "website": "https://www.one-hour.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3883293,
+          48.8558602
+        ]
+      },
+      "id": "node/6260601885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6318502554",
+        "attraction": "carousel",
+        "name": "Le paradis des enfants",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3253244,
+          48.8323777
+        ]
+      },
+      "id": "node/6318502554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6447395923",
+        "name": "PILI RATP",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Aménagement des stations du métro de Paris#Les plans indicateurs lumineux d’itinéraires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3148081,
+          48.8617098
+        ]
+      },
+      "id": "node/6447395923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6687746775",
+        "name": "Maillot",
+        "public_transport": "stop_position",
+        "railway": "halt",
+        "tactile_paving": "no",
+        "tourism": "attraction",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2775542,
+          48.8773674
+        ]
+      },
+      "id": "node/6687746775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6688088379",
+        "name": "Sablons",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "tactile_paving": "no",
+        "tourism": "attraction",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2687544,
+          48.878026
+        ]
+      },
+      "id": "node/6688088379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7064900146",
+        "name": "History Group Store",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2993451,
+          48.8579648
+        ]
+      },
+      "id": "node/7064900146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7784710559",
+        "addr:city": "Paris",
+        "addr:housenumber": "206",
+        "addr:postcode": "38242",
+        "addr:state": "TN",
+        "addr:street": "North Brewer Street",
+        "name": "WTPR Fish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3243924,
+          36.3032463
+        ]
+      },
+      "id": "node/7784710559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8960507017",
+        "check_date": "2024-04-05",
+        "name": "Rivoli 59",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3456573,
+          48.8592267
+        ]
+      },
+      "id": "node/8960507017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9386410836",
+        "changing_table": "no",
+        "fee": "yes",
+        "name": "Magic mirror",
+        "toilets": "no",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3881581,
+          48.8327962
+        ]
+      },
+      "id": "node/9386410836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745189106",
+        "buried:wikidata": "Q41555",
+        "historic": "tomb",
+        "name": "Jacques Offenbach",
+        "name:de": "Jacques Offenbach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3290814,
+          48.8894063
+        ]
+      },
+      "id": "node/10745189106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844713782",
+        "indoor": "yes",
+        "name": "Pendule de Foucault",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q178841",
+        "wikipedia": "fr:Pendule de Foucault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3461361,
+          48.8461929
+        ]
+      },
+      "id": "node/10844713782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844713783",
+        "name": "Pendule de Foucault",
+        "tourism": "attraction",
+        "wikidata": "Q178841",
+        "wikipedia": "fr:Pendule de Foucault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3550493,
+          48.8659656
+        ]
+      },
+      "id": "node/10844713783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951534609",
+        "name": "Jardin des papillons",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4425604,
+          48.8396348
+        ]
+      },
+      "id": "node/10951534609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11077424018",
+        "addr:city": "Paris",
+        "addr:housenumber": "5",
+        "addr:postcode": "75002",
+        "addr:street": "Boulevard Poissonnière",
+        "contact:website": "https://www.legrandrex.com/rexstudios",
+        "name": "Rex Studio",
+        "operator": "Le Grand Rex",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3472734,
+          48.8705976
+        ]
+      },
+      "id": "node/11077424018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11102867807",
+        "access": "private",
+        "name": "Maison Traditionnelle Japonaise",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2940497,
+          48.8664875
+        ]
+      },
+      "id": "node/11102867807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11103218198",
+        "description": "nenuphare articulé mecanique",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385845,
+          48.895444
+        ]
+      },
+      "id": "node/11103218198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11103218199",
+        "description": "nenuphare articulé mecanique",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3858732,
+          48.8953611
+        ]
+      },
+      "id": "node/11103218199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11134959983",
+        "artist_name": "Jean Rondelet",
+        "description": "minature du batiment de Rondelet",
+        "indoor": "yes",
+        "source": "survey 2023",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3467277,
+          48.8462626
+        ]
+      },
+      "id": "node/11134959983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11522875769",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.279679,
+          48.8501605
+        ]
+      },
+      "id": "node/11522875769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11586646324",
+        "historic": "memorial",
+        "level": "-1",
+        "name": "Tombeau de Napoleon Ier",
+        "name:ar": "قبر نابليون",
+        "name:en": "Tomb of Napoleon",
+        "tourism": "attraction",
+        "wikidata": "Q59210966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3125378,
+          48.855027
+        ]
+      },
+      "id": "node/11586646324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11627285426",
+        "description": "tour de poney pour enfants",
+        "name": "Animaponey",
+        "operator": "Centre Equestre-Poney-Club de Rambouillet",
+        "permanent": "no",
+        "tourism": "attraction",
+        "website": "https://animaponey.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3098907,
+          48.8783161
+        ]
+      },
+      "id": "node/11627285426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11684342542",
+        "level": "0",
+        "name": "Voiture RATP",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3720181,
+          48.8428105
+        ]
+      },
+      "id": "node/11684342542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11733634750",
+        "name": "Ancienne Légation de Lituanie (1925-40)",
+        "name:en": "Former Lithuanian Legation (1925-40)",
+        "name:fr": "Ancienne Légation de Lituanie  (1925-40)",
+        "name:pl": "Dawne poselstwo Republiki Litewskiej (1925-40)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3111548,
+          48.8827946
+        ]
+      },
+      "id": "node/11733634750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681980",
+        "attraction": "animal",
+        "name": "Suricate",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4191471,
+          48.8333918
+        ]
+      },
+      "id": "node/11734681980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681981",
+        "attraction": "animal",
+        "name": "Pécari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4174714,
+          48.833814
+        ]
+      },
+      "id": "node/11734681981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681983",
+        "attraction": "animal",
+        "name": "Ouistiti",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4170601,
+          48.8331903
+        ]
+      },
+      "id": "node/11734681983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681984",
+        "attraction": "animal",
+        "name": "Nandou de Darwin",
+        "name:nl": "Darwins nandoe",
+        "species:wikidata": "Q733120",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167573,
+          48.832124
+        ]
+      },
+      "id": "node/11734681984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681985",
+        "attraction": "animal",
+        "name": "Gazelle de Mhorr",
+        "name:en": "Greater kudu",
+        "name:nl": "Grote kudu",
+        "species:wikidata": "Q139487",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4183429,
+          48.8327389
+        ]
+      },
+      "id": "node/11734681985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681986",
+        "attraction": "animal",
+        "name": "Hippotrague",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4195937,
+          48.8316359
+        ]
+      },
+      "id": "node/11734681986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681987",
+        "attraction": "animal",
+        "name": "Aquarium",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4165249,
+          48.8333192
+        ]
+      },
+      "id": "node/11734681987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681988",
+        "attraction": "animal",
+        "name": "Caméléon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4165534,
+          48.8334197
+        ]
+      },
+      "id": "node/11734681988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681989",
+        "attraction": "animal",
+        "name": "Lamantin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4169031,
+          48.833401
+        ]
+      },
+      "id": "node/11734681989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681990",
+        "attraction": "animal",
+        "name": "Serpents",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4172073,
+          48.8336079
+        ]
+      },
+      "id": "node/11734681990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734681992",
+        "attraction": "animal",
+        "name": "Fourmi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4169327,
+          48.8336574
+        ]
+      },
+      "id": "node/11734681992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11734703759",
+        "attraction": "animal",
+        "name": "Lémuriens",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4158162,
+          48.8332408
+        ]
+      },
+      "id": "node/11734703759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11951514275",
+        "flood_date": "1910-01-28",
+        "high_water:waterway": "Seine",
+        "highwater_mark:type": "official_highest",
+        "historic": "highwater_mark",
+        "inscription": "1910 plus hautes eaux connues Seine",
+        "location": "outdoor",
+        "name": "Repère de crue 1910",
+        "support": "wall_mounted",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Repere_de_crue_1910.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2794193,
+          48.8429972
+        ]
+      },
+      "id": "node/11951514275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11951566173",
+        "flood_date": "1910-01-28",
+        "high_water:waterway": "Seine",
+        "highwater_mark:type": "official_highest",
+        "historic": "highwater_mark",
+        "inscription": "1910 plus hautes eaux connues Seine",
+        "location": "outdoor",
+        "support": "wall_mounted",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Repère_de_crue_-_rue_varet.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2800242,
+          48.8401265
+        ]
+      },
+      "id": "node/11951566173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11951930291",
+        "flood_date": "1910-01-28",
+        "flood_mark": "plaque",
+        "high_water:waterway": "Seine",
+        "historic": "highwater_mark",
+        "inscription": "Crue 1910",
+        "location": "outdoor",
+        "support": "wall_mounted",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601653,
+          48.850888
+        ]
+      },
+      "id": "node/11951930291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11951946937",
+        "flood_date": "1910-01-28",
+        "flood_mark": "engraving",
+        "high_water:waterway": "Seine",
+        "historic": "highwater_mark",
+        "inscription": "1910",
+        "location": "outdoor",
+        "support": "wall",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3483629,
+          48.8528036
+        ]
+      },
+      "id": "node/11951946937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11954488564",
+        "flood_date": "1910-01-28",
+        "flood_mark": "engraving",
+        "high_water:waterway": "Seine",
+        "highwater_mark:type": "handwritten",
+        "historic": "highwater_mark",
+        "inscription": "1910",
+        "location": "outdoor",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Repère_de_Crue_-_Pont_Alexandre_III.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3142162,
+          48.8643904
+        ]
+      },
+      "id": "node/11954488564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11959579270",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3262646,
+          48.838079
+        ]
+      },
+      "id": "node/11959579270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11959579569",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268254,
+          48.8377474
+        ]
+      },
+      "id": "node/11959579569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11975430068",
+        "flood_date": "1910-01-28",
+        "high_water:waterway": "Seine",
+        "historic": "highwater_mark",
+        "inscription": "Crue Janvier 1910",
+        "location": "outdoor",
+        "memorial": "plaque",
+        "name": "Église Saint Antoine",
+        "support": "wall_mounted",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Repère de Crue 1910 - Eglise des Quinze-Vingt.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3742707,
+          48.8486784
+        ]
+      },
+      "id": "node/11975430068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12529997517",
+        "direction": "110",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Plaque_Bombardements_allemands_1918%2C_81_boulevard_Saint-Michel%2C_Paris_5.jpg/1280px-Plaque_Bombardements_allemands_1918%2C_81_boulevard_Saint-Michel%2C_Paris_5.jpg",
+        "inscription": "BOMBARDEMENT DE PARIS 20 JANVIER1918 COMBATS DE LA LIBERATION DE PARIS 15 AOUT 1944",
+        "material": "stone",
+        "memorial": "plaque",
+        "name": "Mémorial du bombardement de Paris du 20 janvier 1918 et de la libération de Paris le 15 août 1944",
+        "name:de": "Denkmal für die Bombardierung von Paris am 20 Januar 1918 und die Befreiung von Paris am 15 August 1944",
+        "name:en": "Memorial to the 20 January 1918 Bombardment of Paris and the Liberation of Paris, 15 August 1944",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3396519,
+          48.8455769
+        ]
+      },
+      "id": "node/12529997517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12565341501",
+        "addr:postcode": "75011",
+        "addr:street": "Place de la République",
+        "name": "Le Donjon - Escape The Room",
+        "opening_hours": "Mo-Su 09:30-00:30",
+        "phone": "+33 1 87 65 33 66",
+        "tourism": "attraction",
+        "website": "https://ledonjon.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3641835,
+          48.8674366
+        ]
+      },
+      "id": "node/12565341501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12717907542",
+        "addr:city": "Paris",
+        "addr:postcode": "75018",
+        "name": "Alley Concept Street",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3385525,
+          48.8857206
+        ]
+      },
+      "id": "node/12717907542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093313338",
+        "direction": "290",
+        "historic": "memorial",
+        "inscription": "30 JANVIER 1918\nBOMBARDEMENT PAR AVIONS ALLEMEANDS",
+        "material": "stone",
+        "memorial": "plaque",
+        "name": "Plaque commémorative du bombardement de Paris par l'avions allemands, le 30 janvier 1918",
+        "name:de": "Gedenktafel zur Erinnerung an die Bombardierung von Paris durch deutsche Flugzeuge am 30. Januar 1918",
+        "name:en": "Plaque commemorating the bombing of Paris by German aircraft on January 30, 1918",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3401335,
+          48.8456575
+        ]
+      },
+      "id": "node/13093313338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093906614",
+        "direction": "196",
+        "historic": "memorial",
+        "inscription": "BOMBARDEMENT DU 12 AVRIL 1918\nTORPILLES ALLEMANDES\n27 MORTS - 72 BLESSÉS",
+        "material": "brass",
+        "memorial": "plaque",
+        "name": "Plaque commémorant le bombardement du allemand «  canons parisiens » le 12 avril 1918",
+        "name:de": "Gedenktafel zum Gedenken an den Beschuss der deutschen „Pariser Kanone“ am 12. April 1918",
+        "name:en": "Plaque commemorating the bombardment of the German \"Paris Gun\" on April 12, 1918",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3599315,
+          48.8555965
+        ]
+      },
+      "id": "node/13093906614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255571238",
+        "attraction": "animal",
+        "name": "Oryx d'ArabiÉmeu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3619188,
+          48.845196
+        ]
+      },
+      "id": "node/13255571238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598991",
+        "attraction": "animal",
+        "name": "Certopithèque de l'Hoest",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3611224,
+          48.8451526
+        ]
+      },
+      "id": "node/13255598991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598992",
+        "attraction": "animal",
+        "name": "Mangabey couronné",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3611956,
+          48.845225
+        ]
+      },
+      "id": "node/13255598992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598993",
+        "attraction": "animal",
+        "name": "Mangabey couronné",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3608992,
+          48.8452637
+        ]
+      },
+      "id": "node/13255598993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598994",
+        "attraction": "animal",
+        "name": "Mangabey noir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.360942,
+          48.8453205
+        ]
+      },
+      "id": "node/13255598994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598996",
+        "attraction": "animal",
+        "name": "Panthère de Chine du Nord",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3608576,
+          48.8458278
+        ]
+      },
+      "id": "node/13255598996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255598997",
+        "attraction": "animal",
+        "name": "Orang-outan de Bornéo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3609946,
+          48.8451744
+        ]
+      },
+      "id": "node/13255598997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13282724866",
+        "attraction": "animal",
+        "name": "Amazone à joues vertes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3602594,
+          48.845857
+        ]
+      },
+      "id": "node/13282724866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13300634601",
+        "name": "Jurassic Island",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2655118,
+          48.8781433
+        ]
+      },
+      "id": "node/13300634601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13453761643",
+        "level": "0",
+        "name": "Hall d'honneur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3356999,
+          48.8430301
+        ]
+      },
+      "id": "node/13453761643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13530053211",
+        "amenity": "barefootpath",
+        "description": "Un parcours pieds-nus pour ressentir physiquement la texture des sols sur lesquels marchent les animaux du Parc Zoologique de Paris dans les différents écosystèmes…",
+        "leisure": "barefoot",
+        "name": "Parcours Biodiversité",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4182107,
+          48.830918
+        ]
+      },
+      "id": "node/13530053211"
+    }
+  ]
+}
