@@ -106,7 +106,8 @@ def load_airbnb_heatdata():
     )
     # Subsample for performance if very large
     if len(df) > 20000:
-        df = df.sample(20000, random_state=42, weights=df["weight"].clip(0.01))
+        w = df["weight"].fillna(0).clip(lower=0) + 1e-6  # ensure all positive, no NaN
+        df = df.sample(20000, random_state=42, weights=w)
     return df[["latitude", "longitude", "weight"]].values.tolist()
 
 
